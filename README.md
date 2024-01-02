@@ -26,7 +26,7 @@ Write() is used to write the lines of main file to the empty file or to the dire
 
 ## PROGRAM:
 ```
-#Program to find the Word Count
+#Program to copy file 
 #Developed by:dharsan 
 #Register number: 212223100003
 
